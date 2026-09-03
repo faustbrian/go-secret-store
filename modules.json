@@ -1,0 +1,65 @@
+{
+  "schema_version": 2,
+  "repository": "github.com/faustbrian/go-secret-store",
+  "go_version": "1.26.6",
+  "modules": [
+    {
+      "directory": ".",
+      "module_path": "github.com/faustbrian/go-secret-store",
+      "go_version": "1.26.6",
+      "packages": [
+        {
+          "module_directory": ".",
+          "directory": ".",
+          "name": "planned",
+          "import_path": "github.com/faustbrian/go-secret-store",
+          "kind": "planned entry point",
+          "production": false,
+          "executable": false,
+          "coverage_required": false,
+          "build_required": false,
+          "build_tags": []
+        }
+      ],
+      "purpose": "Reserve an unclassified planning boundary without claiming an installable package, runtime contract, implementation, or release.",
+      "lifecycle": "planned",
+      "kind": "planned boundary",
+      "releasable": false,
+      "version": "",
+      "tag_prefix": "",
+      "test_tags": [],
+      "build_tags": [],
+      "required_services": [],
+      "external_runtime_dependencies": [],
+      "interoperability_tools": [],
+      "conformance_corpora": [],
+      "specifications": [],
+      "owned_dependencies": [],
+      "reverse_owned_dependencies": [],
+      "family": "",
+      "family_label": "",
+      "family_description": "",
+      "family_order": 0,
+      "goal_status": "planned",
+      "goal_files": [
+        "docs/goal.md"
+      ],
+      "goal_evidence": [],
+      "provenance": [],
+      "gates": {
+        "api_compatibility": false,
+        "benchmarks": false,
+        "conformance": false,
+        "coverage": false,
+        "documentation": true,
+        "fuzz": false,
+        "interoperability": false,
+        "lint": false,
+        "mutation": false,
+        "race": false,
+        "security": false,
+        "tests": false
+      }
+    }
+  ]
+}
