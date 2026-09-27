@@ -36,6 +36,11 @@ Passing those checks proves only that this planning scaffold and its explicit
 absence claims are internally consistent. It does not prove a secret-store API
 or behavior.
 
+The [security policy](SECURITY.md) provides private reporting. The
+[versioned planning threat model](docs/security/threat-model.md) covers
+repository integrity and the risk of unsupported security claims; it does
+not assign a future runtime responsibility or sensitive-data contract.
+
 See the versioned [Golib ecosystem index](https://github.com/faustbrian/go-library-tools/blob/v1.4.0/docs/ecosystem/README.md)
 for the shared design language.
 
