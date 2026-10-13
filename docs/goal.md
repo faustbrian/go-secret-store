@@ -1,5 +1,7 @@
 # Goal: planned go-secret-store boundary
 
+[Documentation index](README.md) · [Repository entry](../README.md)
+
 Status: planned and unclassified
 
 The frozen Cohesion Phase 1 inventory records
@@ -43,3 +45,6 @@ Any implementation scope, public API, package identity, cohesion
 classification, ownership model, sensitive-data rules, dependency contract,
 hardening evidence, compatibility commitment, tag, or release requires
 separate reviewed authority and executable acceptance evidence.
+
+Choose the next guide in the [documentation index](README.md)
+or return to the [repository entry](../README.md) for installation and ownership.

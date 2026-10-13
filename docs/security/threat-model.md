@@ -1,5 +1,7 @@
 # Unclassified planning boundary threat model
 
+[Documentation index](../README.md) · [Repository entry](../../README.md)
+
 Version: 1. Scope: repository `github.com/faustbrian/go-secret-store` only.
 
 ## Authority and status
@@ -44,3 +46,6 @@ applicable because neither has been defined or implemented.
 
 No known runtime finding is accepted, tested or declared fixed here. A future
 implementation must establish a new executable security and release verdict.
+
+Choose the next guide in the [documentation index](../README.md)
+or return to the [repository entry](../../README.md) for installation and ownership.
