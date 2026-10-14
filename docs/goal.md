@@ -29,7 +29,7 @@ These records are planning authority, not implementation evidence.
 - Record only the inferred repository identity and known absence of an
   implemented package contract.
 - Validate the planning metadata locally and in hosted CI with immutable,
-  checksum-verified public `go-library-tools` v2.1.2 tooling, without building
+  checksum-verified public `go-library-tools` v2.5.1 tooling, without building
   it from source. Keep ordinary structure, specification and links offline,
   with unconditional secret checks and explicit online authority refresh.
 - Preserve the local `make ci` structural contract in hosted verification;
